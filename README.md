@@ -1,5 +1,5 @@
 # Apache CloudStack on GCP
-Well, it doesn't work actually, because some issues with network. But as scratch can be used.
+Well, it doesn't work actually, because some issues with network. But as a scratch can be used well.
 
 ## Terraform
 Single instance with own subnet
